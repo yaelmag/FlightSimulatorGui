@@ -1,3 +1,3 @@
 # FlightSimulatorGui
 
-creating a gui interface (WPF app) for letting us control our simulator.
+WPF app for windows built in mvvm architecture that communicates with the FlightSimulator application.
